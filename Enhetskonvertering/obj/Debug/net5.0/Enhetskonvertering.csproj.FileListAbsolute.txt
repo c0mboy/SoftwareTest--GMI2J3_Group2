@@ -1,0 +1,32 @@
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.exe
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.deps.json
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.runtimeconfig.json
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.runtimeconfig.dev.json
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\ref\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.pdb
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\ref\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.pdb
+C:\Users\sebas\OneDrive\Skrivbord\Gik299\Labb4_grupp6\Enhetskonvertering\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.exe
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.deps.json
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.runtimeconfig.json
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.runtimeconfig.dev.json
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\ref\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\bin\Debug\net5.0\Enhetskonvertering.pdb
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\ref\Enhetskonvertering.dll
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.pdb
+C:\Users\sebas\OneDrive\Skrivbord\Högskolan\GiK 299 Objektorienterad programmering\group6\Enhetskonvertering\obj\Debug\net5.0\Enhetskonvertering.genruntimeconfig.cache
